@@ -1,6 +1,10 @@
 module TrainingAssessment
 
 using Revise
+using CSV
+using DataFrames
+using DataFramesMeta
+using Chain
 using BaseTrainingPlan
 using TrainingContent
 
