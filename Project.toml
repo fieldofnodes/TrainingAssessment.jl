@@ -1,7 +1,7 @@
 name = "TrainingAssessment"
 uuid = "858d5524-ebe6-4950-8c89-a6cc5a66934a"
 authors = ["Jonathan Miller jonathan.miller@fieldofnodes.com"]
-version = "1.0.0-DEV"
+version = "1.0.0"
 
 [deps]
 BaseTrainingPlan = "040d1834-f38b-4f45-a436-19b9da0e3da9"
